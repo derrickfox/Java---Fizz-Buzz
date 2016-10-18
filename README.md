@@ -36,7 +36,7 @@ The following are the elements that are specific to an instrument dashboard. For
                      "onGridSelection" : "detail",
                      "tileOptions" : {
                           "tileTemplate" : "packages/ort/ui/manage_instruments/tileTemp.html",
-                          "wrapTiles" " "true"
+                          "wrapTiles" : "true"
                      },
                      "viewSelectionDisabled" : "true",
                      "cacheDisabled" : "true"
