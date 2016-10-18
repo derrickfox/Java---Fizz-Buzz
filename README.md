@@ -1,4 +1,4 @@
-#Manage Instruments Dashboard List Settings Configuration:
+#Manage Instruments Dashboard List Settings Configuration
 
 A manage instruments dashboard is a more specific version of a <a href="https://github.com/LabShare/facility/blob/master/docs/dashboard-readme.md">LabShare dashboard</a>. These dashboards tend to follow similar layout and styling. 
 The typical elements of an instrumentation dashboard are as follows:
